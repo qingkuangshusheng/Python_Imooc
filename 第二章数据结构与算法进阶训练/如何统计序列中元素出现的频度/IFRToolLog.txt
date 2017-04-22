@@ -1,0 +1,205 @@
+Connect to Server CreateFile() successful.
+svc_write_buffer->InBufferSize ==> 12
+svc_write_buffer->SvcCommand ==> 0
+Sent message to server successful.
+Read was successfull
+Connect to Server CreateFile() successful.
+svc_write_buffer->InBufferSize ==> 12
+svc_write_buffer->SvcCommand ==> 0
+Sent message to server successful.
+Read was successfull
+Connect to Server CreateFile() successful.
+svc_write_buffer->InBufferSize ==> 12
+svc_write_buffer->SvcCommand ==> 0
+Sent message to server successful.
+Read was successfull
+Connect to Server CreateFile() successful.
+svc_write_buffer->InBufferSize ==> 12
+svc_write_buffer->SvcCommand ==> 0
+Sent message to server successful.
+Read was successfull
+Connect to Server CreateFile() successful.
+svc_write_buffer->InBufferSize ==> 12
+svc_write_buffer->SvcCommand ==> 0
+Sent message to server successful.
+Read was successfull
+Connect to Server CreateFile() successful.
+svc_write_buffer->InBufferSize ==> 12
+svc_write_buffer->SvcCommand ==> 0
+Sent message to server successful.
+Read was successfull
+Connect to Server CreateFile() successful.
+svc_write_buffer->InBufferSize ==> 12
+svc_write_buffer->SvcCommand ==> 0
+Sent message to server successful.
+Read was successfull
+Connect to Server CreateFile() successful.
+svc_write_buffer->InBufferSize ==> 12
+svc_write_buffer->SvcCommand ==> 0
+Sent message to server successful.
+Read was successfull
+Connect to Server CreateFile() successful.
+svc_write_buffer->InBufferSize ==> 12
+svc_write_buffer->SvcCommand ==> 0
+Sent message to server successful.
+Read was successfull
+Connect to Server CreateFile() successful.
+svc_write_buffer->InBufferSize ==> 12
+svc_write_buffer->SvcCommand ==> 0
+Sent message to server successful.
+Read was successfull
+Connect to Server CreateFile() successful.
+svc_write_buffer->InBufferSize ==> 12
+svc_write_buffer->SvcCommand ==> 0
+Sent message to server successful.
+Read was successfull
+Connect to Server CreateFile() successful.
+svc_write_buffer->InBufferSize ==> 12
+svc_write_buffer->SvcCommand ==> 0
+Sent message to server successful.
+Read was successfull
+Connect to Server CreateFile() successful.
+svc_write_buffer->InBufferSize ==> 12
+svc_write_buffer->SvcCommand ==> 0
+Sent message to server successful.
+Read was successfull
+Connect to Server CreateFile() successful.
+svc_write_buffer->InBufferSize ==> 12
+svc_write_buffer->SvcCommand ==> 0
+Sent message to server successful.
+Read was successfull
+Connect to Server CreateFile() successful.
+svc_write_buffer->InBufferSize ==> 12
+svc_write_buffer->SvcCommand ==> 0
+Sent message to server successful.
+Read was successfull
+Connect to Server CreateFile() successful.
+svc_write_buffer->InBufferSize ==> 12
+svc_write_buffer->SvcCommand ==> 0
+Sent message to server successful.
+Read was successfull
+Connect to Server CreateFile() successful.
+svc_write_buffer->InBufferSize ==> 12
+svc_write_buffer->SvcCommand ==> 0
+Sent message to server successful.
+Read was successfull
+Connect to Server CreateFile() successful.
+svc_write_buffer->InBufferSize ==> 12
+svc_write_buffer->SvcCommand ==> 0
+Sent message to server successful.
+Read was successfull
+Connect to Server CreateFile() successful.
+svc_write_buffer->InBufferSize ==> 12
+svc_write_buffer->SvcCommand ==> 0
+Sent message to server successful.
+Read was successfull
+Connect to Server CreateFile() successful.
+svc_write_buffer->InBufferSize ==> 12
+svc_write_buffer->SvcCommand ==> 0
+Sent message to server successful.
+Read was successfull
+Connect to Server CreateFile() successful.
+svc_write_buffer->InBufferSize ==> 12
+svc_write_buffer->SvcCommand ==> 0
+Sent message to server successful.
+Read was successfull
+Connect to Server CreateFile() successful.
+svc_write_buffer->InBufferSize ==> 12
+svc_write_buffer->SvcCommand ==> 0
+Sent message to server successful.
+Read was successfull
+Connect to Server CreateFile() successful.
+svc_write_buffer->InBufferSize ==> 12
+svc_write_buffer->SvcCommand ==> 0
+Sent message to server successful.
+Read was successfull
+Connect to Server CreateFile() successful.
+svc_write_buffer->InBufferSize ==> 12
+svc_write_buffer->SvcCommand ==> 0
+Sent message to server successful.
+Read was successfull
+Connect to Server CreateFile() successful.
+svc_write_buffer->InBufferSize ==> 12
+svc_write_buffer->SvcCommand ==> 0
+Sent message to server successful.
+Read was successfull
+Connect to Server CreateFile() successful.
+svc_write_buffer->InBufferSize ==> 12
+svc_write_buffer->SvcCommand ==> 0
+Sent message to server successful.
+Read was successfull
+Connect to Server CreateFile() successful.
+svc_write_buffer->InBufferSize ==> 12
+svc_write_buffer->SvcCommand ==> 0
+Sent message to server successful.
+Read was successfull
+Connect to Server CreateFile() successful.
+svc_write_buffer->InBufferSize ==> 12
+svc_write_buffer->SvcCommand ==> 0
+Sent message to server successful.
+Read was successfull
+Connect to Server CreateFile() successful.
+svc_write_buffer->InBufferSize ==> 12
+svc_write_buffer->SvcCommand ==> 0
+Sent message to server successful.
+Read was successfull
+Connect to Server CreateFile() successful.
+svc_write_buffer->InBufferSize ==> 12
+svc_write_buffer->SvcCommand ==> 0
+Sent message to server successful.
+Read was successfull
+Connect to Server CreateFile() successful.
+svc_write_buffer->InBufferSize ==> 12
+svc_write_buffer->SvcCommand ==> 0
+Sent message to server successful.
+Read was successfull
+Connect to Server CreateFile() successful.
+svc_write_buffer->InBufferSize ==> 12
+svc_write_buffer->SvcCommand ==> 0
+Sent message to server successful.
+Read was successfull
+Connect to Server CreateFile() successful.
+svc_write_buffer->InBufferSize ==> 12
+svc_write_buffer->SvcCommand ==> 0
+Sent message to server successful.
+Read was successfull
+Connect to Server CreateFile() successful.
+svc_write_buffer->InBufferSize ==> 12
+svc_write_buffer->SvcCommand ==> 0
+Sent message to server successful.
+Read was successfull
+Connect to Server CreateFile() successful.
+svc_write_buffer->InBufferSize ==> 12
+svc_write_buffer->SvcCommand ==> 0
+Sent message to server successful.
+Read was successfull
+Connect to Server CreateFile() successful.
+svc_write_buffer->InBufferSize ==> 12
+svc_write_buffer->SvcCommand ==> 0
+Sent message to server successful.
+Read was successfull
+Connect to Server CreateFile() successful.
+svc_write_buffer->InBufferSize ==> 12
+svc_write_buffer->SvcCommand ==> 0
+Sent message to server successful.
+Read was successfull
+Connect to Server CreateFile() successful.
+svc_write_buffer->InBufferSize ==> 12
+svc_write_buffer->SvcCommand ==> 0
+Sent message to server successful.
+Read was successfull
+Connect to Server CreateFile() successful.
+svc_write_buffer->InBufferSize ==> 12
+svc_write_buffer->SvcCommand ==> 0
+Sent message to server successful.
+Read was successfull
+Connect to Server CreateFile() successful.
+svc_write_buffer->InBufferSize ==> 12
+svc_write_buffer->SvcCommand ==> 0
+Sent message to server successful.
+Read was successfull
+Connect to Server CreateFile() successful.
+svc_write_buffer->InBufferSize ==> 12
+svc_write_buffer->SvcCommand ==> 0
+Sent message to server successful.
+Read was successfull
